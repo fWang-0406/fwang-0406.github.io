@@ -4,3 +4,7 @@ description: Welcome to Rachel's world!
 author: fwang
 url: https://fwang-0406.github.io
 theme: cactus
+deploy:
+  type: git
+  repo: git@github.com:fWang-0406/fwang-0406.github.io.git
+  branch: main
