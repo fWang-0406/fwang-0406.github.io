@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Hexo 博客源文件",
+        "url": "https://github.com/fWang-0406/fwang-0406.github.io",
+        "desc": "基于 Hexo + Cactus 主题搭建的个人博客源文件，包含文章、配置和主题自定义代码"
+    },
+    {
+        "name": "简单的vue前端项目",
+        "url": "https://github.com/fWang-0406/new_pro",
+        "desc": "后面小组还是决定用JS和CSS，这已经是眼泪了"
+    },
+    {
+        "name": "简单的AI问答系统——基于Docker",
+        "url": "https://github.com/fWang-0406/pro0907",
+        "desc": "非常基础，目前仅基于一篇PDF文档，但是RAG、Docker全流程跑通了"
+    }
+]
